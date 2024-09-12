@@ -1,0 +1,12 @@
+{
+  "name": "palindrome_checker",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
