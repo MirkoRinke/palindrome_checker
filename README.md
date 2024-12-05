@@ -8,17 +8,12 @@
 
 A simple utility for detecting palindromes in strings. This tool verifies if a given text reads the same forwards and backwards, ignoring spaces, punctuation, and case sensitivity.
 
-## 🔗 Links
-
-- [Live Site URL](https://hilarious-dieffenbachia-1bf4de.netlify.app)
-
 
 ## 🛠️ Built with
 
 - HTML
 - CSS / SCSS
 - JS / TypeScript
-
 
 ## ⚙️ How to Use
 
